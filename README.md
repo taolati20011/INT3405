@@ -1,6 +1,6 @@
 # INT3405
 
-# Sample code links
+# Sample code execution links
 
 [Colabresearch](https://colab.research.google.com/drive/13drW9OCIo9uvuVqHRYKeRaiVIHz9ucQJ?usp=sharing "Colabresearch")
 
