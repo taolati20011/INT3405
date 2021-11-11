@@ -1,7 +1,8 @@
 # INT3405
 
 Im new to BERT and this below contains example code using BERT.
-This has no change with first version.
+
+It has no change with tutorial version.
 
 # Sample code execution links
 
