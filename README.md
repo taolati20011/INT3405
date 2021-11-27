@@ -2,7 +2,6 @@
 
 Im new to BERT and this below contains example code using BERT.
 
-It has no change with tutorial version.
 
 # Sample code execution links
 
